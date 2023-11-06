@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://i.pinimg.com/originals/ab/7e/3f/ab7e3f409221e14d0ce9c1784e224185.gif" alt="underlenny" /> </p>
 
-- 🔭 I’m currently working on **optimizing the teaching process at the university**
-  
-- 🌱 I’m currently learning **frontend**
-
 <p align="left">
 </p>
 
