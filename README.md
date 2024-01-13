@@ -1,6 +1,5 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1164242870610448427/1164610994400657510/standard_1.gif?ex=6543d782&is=65316282&hm=baa92a0bcebc940e24fd3a116bd1427683f6be2f1bca2745f1861b25a9454d4a&)
 <h1 align="center">Hi 👋, I'm Leonid Gevorgyan</h1>
-<h3 align="center">Beginner Backend Developer</h3>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/ab/7e/3f/ab7e3f409221e14d0ce9c1784e224185.gif" alt="underlenny" /> </p>
 
